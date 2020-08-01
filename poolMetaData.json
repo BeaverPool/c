@@ -1,6 +1,7 @@
 {
-"name": "Beaver Pool",
-"description": "We the North! We are a Stake Pool running on AWS in Canada!",
+"name": "Beaver Pool!",
 "ticker": "BEAVR",
-"homepage": "https://beaver-stake-pool9.webnode.com/"
+"extended": "https://data.pooltool.io/md/a74ca04b-b9a9-47b9-b487-19c3d9186ca6",
+"homepage": "https://beaver-stake-pool9.webnode.com/",
+"description": "We the North! We are a Stake Pool operating in Canada! Let's help decentralize Cardano!"
 }
