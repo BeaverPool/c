@@ -16,11 +16,12 @@
   "about": {
     "me": "Software Engineering",
     "server": "Securely designed infrastracture for maximum availability."
-  },
-  "my-pool-ids": [
-    "593dfbc66c5b8dfc040851a2f4d87191490d4c2312c65dd4418f7b23"
-  ],
-  "telegram-admin-handle": [
-    "beavrPool"
-  ]
+  }
+},
+"my-pool-ids": [
+  "593dfbc66c5b8dfc040851a2f4d87191490d4c2312c65dd4418f7b23"
+],
+"telegram-admin-handle": [
+  "beavrPool"
+]
 }
